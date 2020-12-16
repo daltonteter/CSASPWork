@@ -1,0 +1,15 @@
+C:\Users\maconrm180\Documents\GitHub\Dalton Teter\CS_ASP_007\bin\Debug\CS_ASP_007.exe.config
+C:\Users\maconrm180\Documents\GitHub\Dalton Teter\CS_ASP_007\bin\Debug\CS_ASP_007.exe
+C:\Users\maconrm180\Documents\GitHub\Dalton Teter\CS_ASP_007\bin\Debug\CS_ASP_007.pdb
+C:\Users\maconrm180\Documents\GitHub\Dalton Teter\CS_ASP_007\obj\Debug\CS_ASP_007.csprojAssemblyReference.cache
+C:\Users\maconrm180\Documents\GitHub\Dalton Teter\CS_ASP_007\obj\Debug\MainWindow.g.cs
+C:\Users\maconrm180\Documents\GitHub\Dalton Teter\CS_ASP_007\obj\Debug\App.g.cs
+C:\Users\maconrm180\Documents\GitHub\Dalton Teter\CS_ASP_007\obj\Debug\CS_ASP_007_MarkupCompile.cache
+C:\Users\maconrm180\Documents\GitHub\Dalton Teter\CS_ASP_007\obj\Debug\CS_ASP_007_MarkupCompile.lref
+C:\Users\maconrm180\Documents\GitHub\Dalton Teter\CS_ASP_007\obj\Debug\MainWindow.baml
+C:\Users\maconrm180\Documents\GitHub\Dalton Teter\CS_ASP_007\obj\Debug\CS_ASP_007.g.resources
+C:\Users\maconrm180\Documents\GitHub\Dalton Teter\CS_ASP_007\obj\Debug\CS_ASP_007.Properties.Resources.resources
+C:\Users\maconrm180\Documents\GitHub\Dalton Teter\CS_ASP_007\obj\Debug\CS_ASP_007.csproj.GenerateResource.cache
+C:\Users\maconrm180\Documents\GitHub\Dalton Teter\CS_ASP_007\obj\Debug\CS_ASP_007.csproj.CoreCompileInputs.cache
+C:\Users\maconrm180\Documents\GitHub\Dalton Teter\CS_ASP_007\obj\Debug\CS_ASP_007.exe
+C:\Users\maconrm180\Documents\GitHub\Dalton Teter\CS_ASP_007\obj\Debug\CS_ASP_007.pdb
