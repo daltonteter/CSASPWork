@@ -1,0 +1,15 @@
+C:\Users\maconrm180\source\repos\CS_ASP_023\bin\Debug\CS_ASP_023.exe.config
+C:\Users\maconrm180\source\repos\CS_ASP_023\bin\Debug\CS_ASP_023.exe
+C:\Users\maconrm180\source\repos\CS_ASP_023\bin\Debug\CS_ASP_023.pdb
+C:\Users\maconrm180\source\repos\CS_ASP_023\obj\Debug\CS_ASP_023.csprojAssemblyReference.cache
+C:\Users\maconrm180\source\repos\CS_ASP_023\obj\Debug\MainWindow.g.cs
+C:\Users\maconrm180\source\repos\CS_ASP_023\obj\Debug\App.g.cs
+C:\Users\maconrm180\source\repos\CS_ASP_023\obj\Debug\CS_ASP_023_MarkupCompile.cache
+C:\Users\maconrm180\source\repos\CS_ASP_023\obj\Debug\CS_ASP_023_MarkupCompile.lref
+C:\Users\maconrm180\source\repos\CS_ASP_023\obj\Debug\MainWindow.baml
+C:\Users\maconrm180\source\repos\CS_ASP_023\obj\Debug\CS_ASP_023.g.resources
+C:\Users\maconrm180\source\repos\CS_ASP_023\obj\Debug\CS_ASP_023.Properties.Resources.resources
+C:\Users\maconrm180\source\repos\CS_ASP_023\obj\Debug\CS_ASP_023.csproj.GenerateResource.cache
+C:\Users\maconrm180\source\repos\CS_ASP_023\obj\Debug\CS_ASP_023.csproj.CoreCompileInputs.cache
+C:\Users\maconrm180\source\repos\CS_ASP_023\obj\Debug\CS_ASP_023.exe
+C:\Users\maconrm180\source\repos\CS_ASP_023\obj\Debug\CS_ASP_023.pdb
