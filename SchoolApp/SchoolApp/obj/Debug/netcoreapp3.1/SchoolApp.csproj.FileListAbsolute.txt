@@ -1,0 +1,13 @@
+C:\Users\MaconRM180\source\repos\SchoolApp\SchoolApp\bin\Debug\netcoreapp3.1\SchoolApp.exe
+C:\Users\MaconRM180\source\repos\SchoolApp\SchoolApp\bin\Debug\netcoreapp3.1\SchoolApp.deps.json
+C:\Users\MaconRM180\source\repos\SchoolApp\SchoolApp\bin\Debug\netcoreapp3.1\SchoolApp.runtimeconfig.json
+C:\Users\MaconRM180\source\repos\SchoolApp\SchoolApp\bin\Debug\netcoreapp3.1\SchoolApp.runtimeconfig.dev.json
+C:\Users\MaconRM180\source\repos\SchoolApp\SchoolApp\bin\Debug\netcoreapp3.1\SchoolApp.dll
+C:\Users\MaconRM180\source\repos\SchoolApp\SchoolApp\bin\Debug\netcoreapp3.1\SchoolApp.pdb
+C:\Users\MaconRM180\source\repos\SchoolApp\SchoolApp\obj\Debug\netcoreapp3.1\SchoolApp.csprojAssemblyReference.cache
+C:\Users\MaconRM180\source\repos\SchoolApp\SchoolApp\obj\Debug\netcoreapp3.1\SchoolApp.AssemblyInfoInputs.cache
+C:\Users\MaconRM180\source\repos\SchoolApp\SchoolApp\obj\Debug\netcoreapp3.1\SchoolApp.AssemblyInfo.cs
+C:\Users\MaconRM180\source\repos\SchoolApp\SchoolApp\obj\Debug\netcoreapp3.1\SchoolApp.csproj.CoreCompileInputs.cache
+C:\Users\MaconRM180\source\repos\SchoolApp\SchoolApp\obj\Debug\netcoreapp3.1\SchoolApp.dll
+C:\Users\MaconRM180\source\repos\SchoolApp\SchoolApp\obj\Debug\netcoreapp3.1\SchoolApp.pdb
+C:\Users\MaconRM180\source\repos\SchoolApp\SchoolApp\obj\Debug\netcoreapp3.1\SchoolApp.genruntimeconfig.cache
